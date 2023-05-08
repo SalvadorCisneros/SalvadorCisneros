@@ -5,7 +5,13 @@ Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to sem
 
 ## Habilidades
 
-- [Lista tus habilidades técnicas aquí, como lenguajes de programación, herramientas, frameworks, etc.]
+Conocimiento Intermedio Altoo de Git
+Dominio de Lenguajes: Python, C++,
+Conocimiento Intermedio Alto: Java, Java Script
+Conocimiento Intermedio Alto Django, Flask
+Dominio en React
+Dominio de Microsoft Office y Project
+Conocimiento Intermedio Alto: MySQL, PostgreSQL
 
 ## Experiencia
 
