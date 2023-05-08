@@ -5,21 +5,21 @@ Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to sem
 
 ## Habilidades
 
--Conocimiento Intermedio Alto de Git
--Dominio de Lenguajes: Python, C++,
--Conocimiento Intermedio Alto: Java, Java Script
--Conocimiento Intermedio Alto: Express, Flask
--Dominio en React
--Dominio de Microsoft Office y Project
--Conocimiento Intermedio Alto: MySQL, PostgreSQL
--Conocimientos técnicos y mecánicos
--Organización y gestión de equipos
--Gestión de proyectos
--Solución creativa de problemas
--Altas dotes de comunicación
--Liderazgo
--Diagnóstico y resolución de fallas
--Activo y Entusiasta
+- Conocimiento Intermedio Alto de Git
+- Dominio de Lenguajes: Python, C++,
+- Conocimiento Intermedio Alto: Java, Java Script
+- Conocimiento Intermedio Alto: Express, Flask
+- Dominio en React
+- Dominio de Microsoft Office y Project
+- Conocimiento Intermedio Alto: MySQL, PostgreSQL
+- Conocimientos técnicos y mecánicos
+- Organización y gestión de equipos
+- Gestión de proyectos
+- Solución creativa de problemas
+- Altas dotes de comunicación
+- Liderazgo
+- Diagnóstico y resolución de fallas
+- Activo y Entusiasta
 
 ## Experiencia
 
