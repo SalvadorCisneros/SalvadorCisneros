@@ -1,8 +1,7 @@
-# ¡Hola, soy [tu nombre]! 👋
+# ¡Hola, soy Salvador Cisneros! 👋
 
-[Inserta una imagen tuya aquí]
 
-Soy un desarrollador de software con [número de años de experiencia] años de experiencia. Me apasiona crear soluciones tecnológicas creativas y efectivas que ayuden a resolver problemas del mundo real. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional.
+Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to semestre en ingenieria en Tecnolocias Computacionales en el Tecnologico de Monterrey. Me apasiona crear soluciones tecnológicas creativas y efectivas que ayuden a resolver problemas del mundo real. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional.
 
 ## Habilidades
 
@@ -14,14 +13,6 @@ Soy un desarrollador de software con [número de años de experiencia] años de 
 
 - [Descripción de tus responsabilidades y logros en este trabajo]
 
-### [Nombre de la empresa] - [Título del trabajo] - [Fecha de inicio - Fecha de finalización]
-
-- [Descripción de tus responsabilidades y logros en este trabajo]
-
-## Educación
-
-- [Título universitario] - [Nombre de la universidad] - [Fecha de graduación]
-- [Certificaciones relevantes]
 
 ## Proyectos destacados
 
