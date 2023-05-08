@@ -1,18 +1,34 @@
-### Hi there 👋
+# ¡Hola, soy [tu nombre]! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Inserta una imagen tuya aquí]
 
-<!--
-**SalvadorCisneros/SalvadorCisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software con [número de años de experiencia] años de experiencia. Me apasiona crear soluciones tecnológicas creativas y efectivas que ayuden a resolver problemas del mundo real. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional.
 
-Here are some ideas to get you started:
+## Habilidades
 
+- [Lista tus habilidades técnicas aquí, como lenguajes de programación, herramientas, frameworks, etc.]
 
--->
+## Experiencia
+
+### [Nombre de la empresa] - [Título del trabajo] - [Fecha de inicio - Fecha de finalización]
+
+- [Descripción de tus responsabilidades y logros en este trabajo]
+
+### [Nombre de la empresa] - [Título del trabajo] - [Fecha de inicio - Fecha de finalización]
+
+- [Descripción de tus responsabilidades y logros en este trabajo]
+
+## Educación
+
+- [Título universitario] - [Nombre de la universidad] - [Fecha de graduación]
+- [Certificaciones relevantes]
+
+## Proyectos destacados
+
+- [Lista algunos de tus proyectos más destacados y proporciona enlaces a los repositorios]
+
+## Contacto
+
+- [Tu correo electrónico]
+- [Enlace a tu perfil de LinkedIn]
+- [Enlace a tu sitio web o blog personal]
