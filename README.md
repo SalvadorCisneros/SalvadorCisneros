@@ -1,9 +1,9 @@
-# ¡Hola, soy Salvador Cisneros! 👋
+# ¡Hola, soy Salvador Cisneros! 👋👨🏽‍💻
 
 
 Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to semestre en ingenieria en Tecnolocias Computacionales en el Tecnologico de Monterrey. Me apasiona crear soluciones tecnológicas creativas y efectivas que ayuden a resolver problemas del mundo real. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional.
 
-## Habilidades 👓👨🏽‍💻
+## Habilidades 👓
 
 - Conocimiento Intermedio Alto de Git
 - Dominio de Lenguajes: Python, C++,
@@ -35,5 +35,5 @@ Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to sem
 ## PUEDES CONTACTARME POR AQUI  ⬇
 
 - alejandrocisa@hotmail.com
-- (https://www.linkedin.com/in/salvador-cisneros-1b1483234/)
+- https://www.linkedin.com/in/salvador-cisneros-1b1483234/
 
