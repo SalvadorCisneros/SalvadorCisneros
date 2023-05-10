@@ -1,39 +1,39 @@
-# ¡Hola, soy Salvador Cisneros! 👋👨🏽‍💻
+# Hi, I'm Salvador Cisneros! 👋👨🏽‍💻
 
+I am a software developer in progress. Currently, I am in my 6th semester of Computer Technologies Engineering at Tecnologico de Monterrey. I am passionate about creating creative and effective technological solutions that help solve real-world problems. I love working in a team and I am always looking for new challenges that allow me to continue growing as a professional.
 
-Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to semestre en ingenieria en Tecnolocias Computacionales en el Tecnologico de Monterrey. Me apasiona crear soluciones tecnológicas creativas y efectivas que ayuden a resolver problemas del mundo real. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional.
+## Skills 👓
 
-## Habilidades 👓
+- Intermediate to Advanced knowledge of Git
+- Proficiency in programming languages: Python, C++,
+- Intermediate to Advanced knowledge of: Java, JavaScript
+- Intermediate to Advanced knowledge of: Express, Flask
+- Proficiency in React
+- Proficiency in Microsoft Office and Project
+- Intermediate to Advanced knowledge of: MySQL, PostgreSQL
+- Technical and mechanical knowledge
+- Team organization and management
+- Project management
+- Creative problem-solving
+- Strong communication skills
+- Leadership
+- Diagnosis and troubleshooting
+- Active and Enthusiastic
 
-- Conocimiento Intermedio Alto de Git
-- Dominio de Lenguajes: Python, C++,
-- Conocimiento Intermedio Alto: Java, Java Script
-- Conocimiento Intermedio Alto: Express, Flask
-- Dominio en React
-- Dominio de Microsoft Office y Project
-- Conocimiento Intermedio Alto: MySQL, PostgreSQL
-- Conocimientos técnicos y mecánicos
-- Organización y gestión de equipos
-- Gestión de proyectos
-- Solución creativa de problemas
-- Altas dotes de comunicación
-- Liderazgo
-- Diagnóstico y resolución de fallas
-- Activo y Entusiasta
+## Featured Projects ❕
 
+- Ternium Web Application. Employee Management
+- PRODAN Mobile Application. Animal Management
+- Unity IEMAP Web Application. Learning Technologies for Older Adults
 
-
-
-## Proyectos destacados ❕
-
-- Aplicacion Web Ternium. Gestion de Empleados
-- Aplicacion Movil PRODAN. Gestion de Animales
-- Aplicacion Web con Unity IEMAP. Aprendizaje de tecnologias para Adultos mayoyes
-
-
-
-## PUEDES CONTACTARME POR AQUI  ⬇
+## YOU CAN REACH ME HERE ⬇
 
 - alejandrocisa@hotmail.com
 - https://www.linkedin.com/in/salvador-cisneros-1b1483234/
+
+
+
+
+
+
 
