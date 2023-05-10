@@ -3,7 +3,7 @@
 
 Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to semestre en ingenieria en Tecnolocias Computacionales en el Tecnologico de Monterrey. Me apasiona crear soluciones tecnológicas creativas y efectivas que ayuden a resolver problemas del mundo real. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional.
 
-## Habilidades
+## Habilidades 👓👨🏽‍💻
 
 - Conocimiento Intermedio Alto de Git
 - Dominio de Lenguajes: Python, C++,
@@ -21,19 +21,19 @@ Soy un desarrollador de software en proceso. Actaulmente me encuentro en 6to sem
 - Diagnóstico y resolución de fallas
 - Activo y Entusiasta
 
-## Experiencia
-
-### [Nombre de la empresa] - [Título del trabajo] - [Fecha de inicio - Fecha de finalización]
-
-- [Descripción de tus responsabilidades y logros en este trabajo]
 
 
-## Proyectos destacados
 
-- [Lista algunos de tus proyectos más destacados y proporciona enlaces a los repositorios]
+## Proyectos destacados ❕
 
-## Contacto
+- Aplicacion Web Ternium. Gestion de Empleados
+- Aplicacion Movil PRODAN. Gestion de Animales
+- Aplicacion Web con Unity IEMAP. Aprendizaje de tecnologias para Adultos mayoyes
 
-- [Tu correo electrónico]
-- [Enlace a tu perfil de LinkedIn]
-- [Enlace a tu sitio web o blog personal]
+
+
+## PUEDES CONTACTARME POR AQUI  ⬇
+
+- alejandrocisa@hotmail.com
+- (https://www.linkedin.com/in/salvador-cisneros-1b1483234/)
+
