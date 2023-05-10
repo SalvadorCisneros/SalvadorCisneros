@@ -28,8 +28,8 @@ I am a software developer in progress. Currently, I am in my 6th semester of Com
 
 ## YOU CAN REACH ME HERE ⬇
 
-- alejandrocisa@hotmail.com
-- https://www.linkedin.com/in/salvador-cisneros-1b1483234/
+- [Correo📨](alejandrocisa@hotmail.com)
+- [LinkedIn👨🏽‍🎓](https://www.linkedin.com/in/salvador-cisneros-1b1483234/)
 
 
 
