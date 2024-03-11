@@ -1,6 +1,6 @@
 # Hi, I'm Salvador Cisneros! 👋👨🏽‍💻
 
-I am a software developer in progress. Currently, I am in my 7th semester of Computer Technologies Engineering at Tecnologico de Monterrey. I am passionate about creating creative and effective technological solutions that help solve real-world problems. I love working in a team and I am always looking for new challenges that allow me to continue growing as a professional.
+I am a software developer in progress. Currently, I am in my last semester of Computer Technologies Engineering at Tecnologico de Monterrey. I am passionate about creating creative and effective technological solutions that help solve real-world problems. I love working in a team and I am always looking for new challenges that allow me to continue growing as a professional.
 
 ## Skills 👓
 
